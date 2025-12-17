@@ -1,9 +1,0 @@
-[package]
-name = "suilotion"
-version = "1.0.0"
-edition = "2024.beta"
-
-[dependencies]
-
-[addresses]
-suilotion = "0x0"
